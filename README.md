@@ -1,4 +1,3 @@
-# LinXiao
 <h1 align="center">嗨👋，我是 Zheng-Linxiao</h1>
 <h3 align="center">很高兴认识你</h3>
 
